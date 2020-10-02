@@ -1,7 +1,7 @@
 Basic Express Site
 ==================
 
-Source code example for [A simple website in node.js with express, jade and stylus](http://www.clock.co.uk/blog/a-simple-website-in-nodejs-with-express-jade-and-stylus) article.
+Source code example for => [A simple website in node.js with express, jade and stylus](http://www.clock.co.uk/blog/a-simple-website-in-nodejs-with-express-jade-and-stylus) article.
 
 Build
 -----
@@ -17,7 +17,7 @@ All dependencies will be downloaded by `npm` to `node_modules` folder.
 Run
 ---
 
-Run this command in console:
+Run the upper  command in console:
 
 ```
 node app.js
